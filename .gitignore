@@ -3,3 +3,6 @@ env/
 
 # Cache
 cell_types/
+
+# Checkpoints
+.ipynb_*

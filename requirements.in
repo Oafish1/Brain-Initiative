@@ -1,5 +1,7 @@
+matplotlib
 numpy
 pandas
+umap-learn
 jupyterlab
 torch
 allensdk
